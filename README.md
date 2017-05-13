@@ -11,4 +11,4 @@ Please refer to [DSSG's GitHub page](https://github.com/kambrium/dssg "DSSG on G
 
 License
 -------
-CC0 1.0
+CC0 1.0 Universal
