@@ -1,0 +1,15 @@
+title = 'Put some text here'
+
+keywords = 'some,relevant,keywords'
+
+content_1_md = '''
+## This is my favorite heading...
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+'''
+
+content_2_md = '''
+## Hello world!
+
+Hello code!
+'''

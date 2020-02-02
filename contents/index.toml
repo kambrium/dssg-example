@@ -1,0 +1,22 @@
+title = 'My DSSG website'
+
+keywords = 'DSSG,website'
+
+content_1_md = '''
+## About
+
+DSSG is a **static site generator** written in the D programming language.
+
+What you can do with DSSG:
+* Company websites
+* Portfolio websites
+* Personal websites
+* Hobby websites
+* And a lot of other cool stuff
+'''
+
+content_2_md = '''
+## Some more information
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+'''
